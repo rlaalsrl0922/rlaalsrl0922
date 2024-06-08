@@ -17,7 +17,16 @@
   <img src="https://img.shields.io/badge/notion-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
-## Activities
+
+## Experient
+2022.03 ~ 2024.02 KyungHee University. Club D.com **Executives**
+2022.03 ~ 2022.12 KyungHee University. **SW Teenager Mentor**
+2022.12 - 2023.07, AGI Lab research student **Intern**
+2023.01 Sanjose University, Startup&Ennovation capstone **Granprize**
+2023.08 - 2024.01, Kist Europe **Intern**
+2024.03 ~, University MakeUs Challenge 6th Member
+
+
 
 <!--
 **rlaalsrl0922/rlaalsrl0922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
