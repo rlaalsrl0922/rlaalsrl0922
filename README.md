@@ -22,9 +22,11 @@
 2022.03 ~ 2024.02 KyungHee University. Club D.com **Executives**  <br>
 2022.03 ~ 2022.12 KyungHee University. **SW Teenager Mentor**  <br>
 2022.12 - 2023.07, AGI Lab research student **Intern**  <br>
-2023.01 Sanjose University, Startup&Ennovation capstone **Granprize**  <br>
 2023.08 - 2024.01, Kist Europe **Intern**  <br>
 2024.03 ~, University MakeUs Challenge 6th Member
+
+2022.09 KyungHee University, Software competition **Granprize**  <br>
+2023.01 Sanjose University, Startup&Ennovation capstone **Granprize**  <br>
 
 
 
