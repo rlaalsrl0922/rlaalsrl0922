@@ -1,5 +1,10 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hi+there%2C+I'm+Minki+Kim+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+## Stack
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+## Activities
+
 <!--
 **rlaalsrl0922/rlaalsrl0922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
