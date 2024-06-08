@@ -21,8 +21,8 @@
  <br>
   <br>
 
-If you want to know about my projects more specifically
-👉🏻[Notion]([https://yunamom.tistory.com](https://superficial-waiter-55e.notion.site/1feb56ba63c8415e83d3302768f454bf?pvs=4))
+If you want to know about my projects more specifically<br>
+👉🏻[Notion](https://superficial-waiter-55e.notion.site/1feb56ba63c8415e83d3302768f454bf?pvs=4)
 
 ## Experiment
 2022.03 ~ 2024.02 KyungHee University. Club D.com **Executives**  <br>
