@@ -33,7 +33,7 @@ If you want to know about my projects more specifically<br>
 Multi-modal engineering <br>
 ML/AI Engineering
 
-<center> ## Experiment
+## Experiment
 2022.03 ~ 2024.02 KyungHee University. Club D.com **Executives**  <br>
 2022.03 ~ 2022.12 KyungHee University. **SW Teenager Mentor**  <br>
 2022.12 - 2023.07, AGI Lab research student **AI Multi-Modal ResearchIntern**  <br>
