@@ -25,13 +25,13 @@ If you want to know about my projects more specifically<br>
 👉🏻[Notion](https://superficial-waiter-55e.notion.site/1feb56ba63c8415e83d3302768f454bf?pvs=4)
 
 
-### 👩‍💻 I'm a Computer Engineering student at KHU
-🏃🏻‍♂️ I prefer activities such as workout and running 🏋🏻‍♂️
-🔥 I always do my best for achieve 
+### 👩‍💻 I'm a Computer Engineering student at KHU <br>
+🏃🏻‍♂️ I prefer activities such as workout and running 🏋🏻‍♂️<br>
+🔥 I always do my best for achieve <br>
 
-## Im interested in
-Multi-modal engineering <br>
-ML/AI Engineering
+## Im interested in <br>
+* Multi-modal engineering <br>
+* ML/AI Engineering
 
 ## Experiment
 2022.03 ~ 2024.02 KyungHee University. Club D.com **Executives**  <br>
