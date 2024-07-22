@@ -34,9 +34,9 @@ If you want to know about my projects more specifically<br>
 * ML/AI Engineering
 
 ## Experiment
-2022.03 ~ 2024.02 KyungHee University. Club D.com **Executives**  <br>
+2022.03 ~ 2023.12 KyungHee University. Club D.com **Executives**  <br>
 2022.03 ~ 2022.12 KyungHee University. **SW Teenager Mentor**  <br>
-2022.12 - 2023.07, AGI Lab research student **AI Multi-Modal ResearchIntern**  <br>
+2022.12 - 2023.07, AGI Lab research student **AI Multi-Modal Research Intern**  <br>
 2023.08 - 2024.01, Kist Europe **AI Bioinformatics Research Intern**  <br>
 2024.03 ~ 2024.06, University MakeUs Challenge 6th Member
 2024.06 ~ SK AI Data Academy 1st Member
