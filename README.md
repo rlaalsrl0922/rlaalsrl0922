@@ -38,9 +38,9 @@ If you want to know about my projects more specifically<br>
 2022.03 ~ 2022.12 KyungHee University. **SW Teenager Mentor**  <br>
 2022.12 - 2023.07, AGI Lab research student **AI Multi-Modal Research Intern**  <br>
 2023.08 - 2024.01, Kist Europe **AI Bioinformatics Research Intern**  <br>
-2024.03 ~ 2024.06, University MakeUs Challenge 6th Member
-2024.06 ~ SK AI Data Academy 1st Member
-2024.07 ~ Lg Aimers 5th Member
+2024.03 ~ 2024.06, University MakeUs Challenge 6th Member <br>
+2024.06 ~ SK AI Data Academy 1st Member <br>
+2024.07 ~ Lg Aimers 5th Member <br>
 
 2022.09 KyungHee University, Software competition **Granprize**  <br>
 2023.01 Sanjose University, Startup&Ennovation capstone **Granprize**  <br>
